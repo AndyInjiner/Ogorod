@@ -1,0 +1,17 @@
+{
+  "name": "Название проекта",
+  "about": "Краткое описание проекта",
+  "version": "1.0",
+  "notes": "Комментарии к обновлению",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/AndyInjiner/Ogorod/main/bin/firmware.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
