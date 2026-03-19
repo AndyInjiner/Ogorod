@@ -1,0 +1,21 @@
+# Arduino IDE generated files
+*.tmp
+*.log
+
+# ESP-IDF
+build/
+sdkconfig
+sdkconfig.old
+
+# PlatformIO
+.pioenvs/
+.piolibdeps/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Data files
+/data.dat
